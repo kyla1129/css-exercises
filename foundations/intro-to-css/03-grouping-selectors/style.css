@@ -1,0 +1,14 @@
+.bla {
+    background-color: black;
+    color: white;
+}
+
+.blabla {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+
+.bla, .blabla {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
